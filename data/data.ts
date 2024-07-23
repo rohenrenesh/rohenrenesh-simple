@@ -7,7 +7,7 @@ const data = {
     title: "Coming Soon!",
     description: "Currently working to make this blog live. Thanks for your patience🎉",
     newsletterheading: "Stay tuned for our inbox updates!",
-    copyrightText: `Copyright © ${currentYear} | Made with ♥️ by&nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/rohenrenesh">Rohen Renesh</a>`,
+    copyrightText: `Copyright © ${currentYear} | Made with ♥️ by <a target="_blank" class="no-underline md:underline" href="https://github.com/rohenrenesh">Rohen Renesh</a>`,
     socialIconsHeading: "Follow 📣",
     hideSubscribeForm: false, // make true to disable subscription form 
     socialIcons: [
