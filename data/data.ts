@@ -5,7 +5,7 @@ const data = {
     siteurl: "https://github.com/rohenrenesh",
     sitelogo: "",
     title: "Coming Soon!",
-    description: "Currently working to make this blog live. Thanks for patience🎉",
+    description: "Currently working to make this blog live. Thanks for your patience🎉",
     newsletterheading: "Stay tuned for our inbox updates!",
     copyrightText: `Copyright © ${currentYear} | Made with ♥️ by &nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/rohenrenesh">Rohen Renesh</a>`,
     socialIconsHeading: "Follow 📣",
