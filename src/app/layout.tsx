@@ -11,7 +11,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "Home - Rohen's blog",
-  description: 'Rohen's upcoming blog',
+  description: "Rohen's upcoming blog"
 }
 
 export default function RootLayout({
