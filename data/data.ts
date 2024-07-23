@@ -5,8 +5,8 @@ const data = {
     siteurl: "https://github.com/rohenrenesh",
     sitelogo: "",
     title: "Coming Soon!",
-    description: "We&apos;re currently working 👨‍💻 hard to bring you something great, and we can&apos;t wait to share it with you 📅. Our team is putting the finishing touches on a new project 🚀 that we think you&apos;ll love 😍.",
-    newsletterheading: "Stay tuned for our live updates!",
+    description: "Currently working to make this blog live. Thanks for patience🎉",
+    newsletterheading: "Stay tuned for our inbox updates!",
     copyrightText: `Copyright © ${currentYear} | Design and Developed By &nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/rohenrenesh">Rohen Renesh</a>`,
     socialIconsHeading: "Follow 📣",
     hideSubscribeForm: false, // make true to disable subscription form 
